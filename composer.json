@@ -7,7 +7,7 @@
 		"vendor-dir": "."
 	},
     "require": {
-	    "sabre/dav" : "1.7.9"
+	    "sabre/dav" : "1.7.9",
+		"doctrine/dbal": "2.4.2"
     }
 }
-
