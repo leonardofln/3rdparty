@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "f0ab163e2e873d4c984abdd4d27bbfb4",
+    "hash": "22d98834b1c9eb02445b5d699b55893b",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -62,7 +62,7 @@
                     "email": "kontakt@beberlei.de"
                 },
                 {
-                    "name": "Johannes M. Schmitt",
+                    "name": "Johannes Schmitt",
                     "email": "schmittjoh@gmail.com",
                     "homepage": "http://jmsyst.com",
                     "role": "Developer of wrapped JMSSerializerBundle"
@@ -137,7 +137,7 @@
                     "email": "kontakt@beberlei.de"
                 },
                 {
-                    "name": "Johannes M. Schmitt",
+                    "name": "Johannes Schmitt",
                     "email": "schmittjoh@gmail.com",
                     "homepage": "http://jmsyst.com",
                     "role": "Developer of wrapped JMSSerializerBundle"
@@ -482,12 +482,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/kriswallsmith/assetic.git",
-                "reference": "d013aae51baf893fe8d38b41f2d24db03e1cfbf7"
+                "reference": "8342a250cd6e8d693332e7899b2e9c62c8187156"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kriswallsmith/assetic/zipball/d013aae51baf893fe8d38b41f2d24db03e1cfbf7",
-                "reference": "d013aae51baf893fe8d38b41f2d24db03e1cfbf7",
+                "url": "https://api.github.com/repos/kriswallsmith/assetic/zipball/8342a250cd6e8d693332e7899b2e9c62c8187156",
+                "reference": "8342a250cd6e8d693332e7899b2e9c62c8187156",
                 "shasum": ""
             },
             "require": {
@@ -547,7 +547,7 @@
                 "compression",
                 "minification"
             ],
-            "time": "2014-02-04 10:36:39"
+            "time": "2014-02-28 18:17:10"
         },
         {
             "name": "mcnetic/phpzipstreamer",
@@ -558,20 +558,20 @@
                 "reference": "master"
             },
             "type": "library",
-            "time": "2014-02-26 10:13:15"
+            "time": "2014-01-30 14:55:35"
         },
         {
             "name": "sabre/dav",
-            "version": "1.7.9",
+            "version": "1.7.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/fruux/sabre-dav.git",
-                "reference": "05ee3831e48e908041888bfdf0186bce1b7097d8"
+                "reference": "e3f46e0ecf83cf1d2ebf54908cde7b5ec170aa2c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fruux/sabre-dav/zipball/05ee3831e48e908041888bfdf0186bce1b7097d8",
-                "reference": "05ee3831e48e908041888bfdf0186bce1b7097d8",
+                "url": "https://api.github.com/repos/fruux/sabre-dav/zipball/e3f46e0ecf83cf1d2ebf54908cde7b5ec170aa2c",
+                "reference": "e3f46e0ecf83cf1d2ebf54908cde7b5ec170aa2c",
                 "shasum": ""
             },
             "require": {
@@ -626,7 +626,7 @@
                 "framework",
                 "iCalendar"
             ],
-            "time": "2013-10-02 18:33:56"
+            "time": "2014-02-26 22:13:46"
         },
         {
             "name": "sabre/vobject",
